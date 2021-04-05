@@ -1,0 +1,21 @@
+# Object files
+*.elf
+
+# Make/CMake
+*.cmake
+CMakeCache.txt
+Makefile
+CMakeFiles/
+
+# Vita
+*.self
+*.velf
+*.vpk
+*.vpk.out
+*.self.out
+
+# Param file
+*.sfo
+
+# Individual Homebrew Extensionless Files
+konnichiwa_sekai/konnichiwa_sekai
