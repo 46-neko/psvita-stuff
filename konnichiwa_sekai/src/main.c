@@ -6,7 +6,7 @@
 
 int main(int argc, char *argv[]){
     psvDebugScreenInit(); // Initiates Debug Screen
-    psvDebugScreenPrintf("こんにちは世界!\n"); // Write something
+    psvDebugScreenPrintf("Konnichiwa, Sekai!\n"); // Write something
     psvDebugScreenPrintf("Made by k1tsunee\n"); // lol
     psvDebugScreenPrintf("Press O to quit.\n");
 
