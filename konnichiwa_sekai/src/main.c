@@ -2,7 +2,7 @@
 #include<psp2/kernel/processmgr.h>
 #include<psp2/kernel/threadmgr.h>
 #include<psp2/ctrl.h>
-#include "/usr/local/vitasdk/share/gcc-arm-vita-eabi/samples/common/debugScreen.h"
+#include "common/debugScreen.h"
 
 int main(int argc, char *argv[]){
     psvDebugScreenInit(); // Initiates Debug Screen
