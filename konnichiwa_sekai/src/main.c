@@ -2,7 +2,7 @@
 #include<psp2/kernel/processmgr.h>
 #include<psp2/kernel/threadmgr.h>
 #include<psp2/ctrl.h>
-#include "common/debugScreen.h"
+#include "debugScreen.h"
 
 int main(int argc, char *argv[]){
     psvDebugScreenInit(); // Initiates Debug Screen
